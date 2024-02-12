@@ -44,9 +44,9 @@
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 
 # :mailbox_with_mail: Contacts
-[![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/kstar0703/)](https://github.com/kstar0703/)
+[![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/Whdbeom/)](https://github.com/Whdbeom/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kstar966@gmail.com)](mailto:kstar966@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gmltjd3391@naver.com)](mailto:gmltjd3391@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Whdbeom@gmail.com)](mailto:Whdbeom@gmail.com)
 
-깃 readMe
+프로젝트 중 사용한 언어<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whdbeom)](https://github.com/anuraghazra/github-readme-stats)

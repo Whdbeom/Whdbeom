@@ -49,5 +49,5 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Whdbeom@gmail.com)](mailto:Whdbeom@gmail.com)
 
-프로젝트 중 사용한 언어<br>
+# :chart_with_upwards_trend: Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whdbeom)](https://github.com/anuraghazra/github-readme-stats)

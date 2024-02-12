@@ -1,6 +1,6 @@
 # PARK JONG BEOM⚡ 
 
-지속적인 성장을 향해 도전하고 발전하는 신입 개발자 박종범입니다.
+지속적인 성장을 향해 도전하고 발전하는 개발자 박종범입니다.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWhdbeom%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D46E6E&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)

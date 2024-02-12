@@ -9,7 +9,7 @@
 
 
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdqja918)](https://solved.ac/whdqja918/)
 -->
 
 # 💪Skills

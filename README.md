@@ -46,7 +46,7 @@
 
 # :mailbox_with_mail: Contacts
 [![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=github&link=https://github.com/Whdbeom/)](https://github.com/Whdbeom/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jbpark0.notion.site/jbpark0/65f9e0752ddd4e299e03edd64bdd4a49)](https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Whdbeom@gmail.com)](mailto:Whdbeom@gmail.com)
 
 # :chart_with_upwards_trend: Top Langs
